@@ -32,4 +32,16 @@
   <li>BILLS(Membership ID,Farmer’s Name,Payment Period,Amount,Quantity of Milk)</li>
 </ul>
 
+<h3>Entity-Relationship Model</h3>
+<br>
 <img src=./ER-MODEL.png>
+<br>
+<br>
+
+<h3>Requirements</h3>
+<ul>
+  <li>MySQL</li>
+  <li>MySQL Workbench 8.0</li>
+</ul>
+
+
