@@ -17,7 +17,7 @@
   <li>3.SOCIETY</li>
   <li>4.CITY</li>
   <li>5.TOWN</li>
-  <li><6.MILK-RECEIVED/li>
+  <li>6.MILK-RECEIVED</li>
   <li>7.BILLS</li>
 </ul>
 
