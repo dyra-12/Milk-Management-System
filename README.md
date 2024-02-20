@@ -31,3 +31,5 @@
   <li>MILK-RECEIVED(Society no.,Date,Time,Vehicle No.,Quantity of Milk,FAT%,SNF)</li>
   <li>BILLS(Membership ID,Farmer’s Name,Payment Period,Amount,Quantity of Milk)</li>
 </ul>
+
+<img src=./ER-MODEL.png>
